@@ -1,0 +1,1 @@
+gcc -o archiver main.c compress.c unpack.c haffman.c

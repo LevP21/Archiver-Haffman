@@ -1,0 +1,8 @@
+
+```
+Hello! This is a test file for the archiver program.
+It contains some random numbers: 12345, 67890.
+And also some special characters: !@#$%^&*().
+Hope this helps in testing the archiver's functionality.
+!@#$%^&*(^*&$$&*^)
+```
